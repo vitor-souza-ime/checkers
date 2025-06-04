@@ -51,12 +51,3 @@ This Python script implements a Checkers (Draughts) game with an AI agent traine
 
 `main.py` serves as the centralized script to train and demonstrate a reinforcement learning agent playing Checkers, combining game mechanics and AI in a single executable file.
 ```
-
-[1] https://docs.python.org/3/library/__main__.html
-[2] https://docs.python-guide.org/writing/structure/
-[3] https://discuss.python.org/t/describe-python-project-structure/28959
-[4] https://www.reddit.com/r/learnpython/comments/seu5l6/what_is_the_correct_way_to_structure_your_files/
-[5] https://docs.industrial-operations-x.siemens.cloud/r/en-us/technology-module-tm-npu-manual/programming/sequence-and-procedures/main.py-structure-and-setup/structure-of-the-main.py-script-file
-[6] https://retailtechinnovationhub.com/home/2024/2/29/the-ultimate-guide-to-structuring-a-python-package
-[7] https://www.geeksforgeeks.org/usage-of-__main__-py-in-python/
-[8] https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application
